@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-Desenvolvedora apaixonada por tecnologia e inovação, com experiência em diversas tecnologias de front-end e back-end. Sempre em busca de novos desafios e conhecimentos.
+Desenvolvedora apaixonada por tecnologia e inovação, com experiência em algumas tecnologias de front-end e back-end. Sempre em busca de novos desafios e conhecimentos.
 
 ## Tecnologias e Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
