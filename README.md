@@ -1,4 +1,4 @@
-# Olá, eu sou Grace 👋
+# Oi, eu sou Grace Martins 👋
 
 🔭 Atualmente sou Dev Full Stack
 
