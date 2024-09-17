@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Desenvolvedora apaixonada por tecnologia e inovação, com experiência em algumas tecnologias de front-end e back-end. Sempre em busca de novos desafios e conhecimentos.
+Desenvolvedora apaixonada por tecnologia e inovação, com experiência em algumas tecnologias. Sempre em busca de novos desafios e conhecimentos.
 
 ## Tecnologias e Ferramentas
 <div> 
